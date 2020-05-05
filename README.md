@@ -1,3 +1,3 @@
-# Deploying Plotly-Dash To Heroku
-win 10 64-bit <br>
-python 3.7
+Covid-19 India dashboard created using Dash
+Deployed using Heroku
+Link : https://www.covid19india.org/
